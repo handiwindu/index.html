@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Handi Windu</title>
+    <style>
+        body {
+            font-family: "Segoe UI", Arial, sans-serif;
+            background-color: #f9f9ff;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .card {
+            background: #fff;
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            text-align: center;
+            max-width: 400px;
+        }
+        img {
+            border-radius: 10px;
+            width: 200px;
+            margin-top: 10px;
+        }
+        h1 {
+            color: #2c2c54;
+        }
+        p {
+            font-size: 15px;
+            line-height: 1.5;
+        }
+        .desc {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1> <strong> Women Hood - Becoming Light<strong></h1>
+        <img src="WomenHood.jpeg" alt="Women Hood">
+        <p class="desc">This painting represents the woman do aerial yoga in the air – an expression of strength, freedom, and confidence. She is undergoing a metamorphosis, becoming a better version of herself. The butterflies surrounding her represent transformation, each color symbolizing the experiences and lessons she has gathered along the way.</p>
+    </div>
+</body>
+</html>
